@@ -1,0 +1,12 @@
+.column{
+    width: 300px;
+    float: left;
+    padding: 50px;
+
+}
+.columns{
+    padding: 10px;
+    font: 100px;
+    font-style: italic;
+    text-align: center;
+}
